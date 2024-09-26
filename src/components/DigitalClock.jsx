@@ -37,7 +37,7 @@ const DigitalClock = () => {
     <div>
       {/* Video background */}
       <video autoPlay muted loop className="video-bg">
-        <source src="/src/assets/video-1.mp4" type="video/mp4" />
+        <source src="https://videos.pexels.com/video-files/856938/856938-hd_1920_1080_24fps.mp4" type="video/mp4" />
       </video>
       <div className="container my-5">
         <div className=" w-50  p-5 rounded text-center ">
